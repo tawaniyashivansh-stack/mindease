@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+
+# React
+build/
+
+# Optional npm cache directory
+.npm/
+
+# Optional yarn cache directory
+.yarn-cache/
+
+# dotenv environment variable file
+.env
